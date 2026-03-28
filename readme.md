@@ -1,5 +1,9 @@
 # 扩散模型教程（Diffusion Tutorials, 中文增强版）
 
+|![unified diffusion model framework](./assets/unified_diffusion_model_framework.png)|
+|:---:|
+| Unified Diffusion Model Framework |
+
 本项目是对 Tsuyoshi Matsuzaki（Microsoft）开源项目 [**tsmatz/diffusion-tutorials**](https://github.com/tsmatz/diffusion-tutorials) 的 **系统性中文翻译与理论增强版本**。
 
 在完整保留原始 PyTorch 实现与算法结构的基础上，本项目围绕**扩散模型（Diffusion Models）与基于得分的生成建模（Score-based Generative Modeling）**，对核心理论推导、训练目标、采样算法与引导机制进行了**更细粒度的数学补充与工程化解读**，旨在为中文读者提供一套**从数学原理到代码实现可无缝衔接的学习路径**。
@@ -69,7 +73,7 @@
 
 ### 4. 预训练模型权重（`model/` 目录）
 
-为降低学习与复现门槛，本项目将**各章节训练完成的模型权重（`.pt` 文件）统一存放在 `model/` 目录下**，供读者直接加载使用（由于文件过大，作者已将模型权重文件迁移至HuggingFace Model Repository，请从以下链接直接下载：https://huggingface.co/stephen4sheng/diffusion-tutorials-cn）。
+为降低学习与复现门槛，本项目将**各章节训练完成的模型权重（`.pt` 文件）统一存放在 `model/` 目录下**，供读者直接加载使用。
 
 - 对于**缺乏 GPU 或算力受限的学习者**：
   - 可跳过漫长的训练过程
